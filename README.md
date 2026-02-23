@@ -6,6 +6,7 @@ My latest projects:
 - **MIRAS** — an end-to-end, self-built modular robotics system (3 years). It won Gold at TISF 2025 and got me to CATSIC 2025.
 - **DelightRelight Benchmark** — first draft finished three weeks ago: a benchmark for detecting AI videos using 3D Gaussian Splatting (3DGS) reconstruction.  
   You can find the pdf's under project papers.
+  Make sure to download to see the images. GitHub’s PDF preview doesn’t render them.
 
 I also love building under pressure and working in teams:
 - **VisCon Hackathon 2025** — my most recent hackathon; we took 3rd place: https://github.com/TheOverflows-VISCON2025/viscon-hackathon-project
