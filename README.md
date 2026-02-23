@@ -1,6 +1,6 @@
 # Portfolio
 
-Here are my latest projects and why I’m excited to join the Robotics Club:
+My latest projects:
 
 - **MARBLES VR** — a fully hand-tracked VR/AR game that qualified me for ISEF 2023, where I placed 4th in Computer Science.
 - **MIRAS** — an end-to-end, self-built modular robotics system (3 years). It won Gold at TISF 2025 and got me to CATSIC 2025.
@@ -15,5 +15,3 @@ I’ve worked across the full robotics stack:
 
 I competed in a science challenge show on Luxembourg TV:
 - **Take Off (Season 2)** — finished 2nd place: https://www.youtube.com/@takeoffshow_lu
-
-My aims at ETH RC are to build real systems with a strong team, learn fast, and contribute wherever needed (mechanical, electronics, software, or integration). 🔥
